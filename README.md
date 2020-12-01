@@ -1,6 +1,6 @@
 # Data Science Professional Portfolio
 
-![picture alt](assets/day001.jpg "Day 001")
+![picture alt](professional-portfolio.png "banner")
 
 Here 
 
