@@ -1,4 +1,6 @@
-# :chart_with_upwards_trend:	:pushpin: Eli Gorniak - Data Science Professional Portfolio
+<h1 align="center">
+  :chart_with_upwards_trend:	:pushpin: Eli Gorniak - Data Science Professional Portfolio
+</h1>
 
 ![picture alt](professional-portfolio.png "banner")
 ---
