@@ -11,5 +11,7 @@ Here you find all projects that I've developed in data science and machine learn
 
 ### :gear: Projects:
 
+:construction_worker_woman: Under construction...
+
 ---
 ### :wave: About me:
