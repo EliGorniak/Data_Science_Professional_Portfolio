@@ -14,4 +14,5 @@ Here you find all projects that I've developed in data science and machine learn
 :construction_worker_woman: Under construction...
 
 
+---
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=EliGorniak&repo=Data_Science_Professional_Portfolio&countColorcountColor&countColor=%237B1E7A)
